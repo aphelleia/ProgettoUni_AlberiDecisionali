@@ -1,3 +1,6 @@
+Autori: H.Zamorska, C.Palo, M.Della Peruta, M.Di Siero
+PowerPointPresentazione: Presente
+
 Linguaggio di programmazione: Python
 Tematiche: Alberi decisionali + ottimizzazione 
 Programma con cui sono stati scritti e gestiti i progetti: PyCharm e Colab (piattaforma di Google online)
